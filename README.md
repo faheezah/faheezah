@@ -1,6 +1,6 @@
-👋Hi, I'm Fasasi Faheezah Funmilola 
 
-<h1 align="center">Hey, I'm Faiza 👋</h1>
+
+<h1 align="center">Hey, I'm Fasasi Faheezah Funmilola 👋</h1>
 
 <p align="center">
   Electronic & Electrical Engineering Student · Embedded Systems · Learning by Building 🚀
