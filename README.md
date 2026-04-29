@@ -77,8 +77,15 @@ Embedded Systems · IoT · Robotics · Hardware Engineering · MATLAB · Python 
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
-</p>
 
+  <a href="https://www.linkedin.com/in/faheezah-fasasi-b4b7a1354">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:f.f.faheezah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 ---
 
 <p align="center">
