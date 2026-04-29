@@ -57,7 +57,7 @@ I learn best by building real and simulated engineering projects and documenting
 
 ## 📂 Projects
 
-All projects represent my learning journey — not just finished products.
+All projects represent my learning journey not just finished products.
 
 - 🔌 Embedded systems (Pico 2W projects)  
 - 🧪 Circuit simulations (Tinkercad / Proteus)  
