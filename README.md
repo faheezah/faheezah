@@ -8,7 +8,7 @@ Electronic & Electrical Engineering Student · Embedded Systems · IoT · Roboti
 
 ## 🧠 About Me
 
-I'm an Electronic and Electrical Engineering student passionate about understanding how systems work — from circuit level to embedded systems implementation.
+I'm an Electronic and Electrical Engineering student passionate about understanding how systems work from circuit level to embedded systems implementation.
 
 I learn best by building real and simulated engineering projects and documenting my growth step by step.
 
